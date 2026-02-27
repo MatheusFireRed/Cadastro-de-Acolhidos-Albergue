@@ -1,11 +1,19 @@
 import tkinter as tk
+from datetime import datetime
 from functions.letrasMaiusculas import letrasMaiusculas
 from functions.formatarCpf import formatarCpf
 from functions.formatarData import formatarData
 
+#Data atual 
+data_atual = datetime.now().strftime("%d/%m/%y")
+
 janelaPrincipal = tk.Tk()
 janelaPrincipal.title("Acolhimento Pernoite")
-janelaPrincipal.geometry("500x500")
+janelaPrincipal.geometry("700x700")
+
+#Subtitulo da página
+subtitulo = tk.Label(janelaPrincipal, text="Cadastro de Acolhidos, Data: " + data_atual, font=("Arial", 20, "bold"))
+subtitulo.pack(pady=30)
 
 # Nome
 txtNome = tk.Label(janelaPrincipal, text="Nome completo:")
@@ -36,5 +44,21 @@ varNomeMae = tk.StringVar()
 varNomeMae.trace_add("write", lambda *args: letrasMaiusculas(varNomeMae))
 inputNomeMae = tk.Entry(janelaPrincipal, width=50, textvariable=varNomeMae)
 inputNomeMae.pack()
+
+#Pegar os valores dos campos
+nome        = varNome.get().strip()
+cpf         = inputCpf.get().strip()
+data_nasc   = inputDataNasc.get().strip()
+nome_mae    = varNomeMae.get().strip()
+
+
+#Apenas teste, para ser apagado posteriormente
+def clicou():
+    print("Clicou!")
+
+#Botão de cadastro
+#COLOCAR command= mais a função de cadastro após 
+btn_cadastro = tk.Button(janelaPrincipal,text="CADASTRAR", command=clicou, width=40, font=("Arial", 15, "bold"))
+btn_cadastro.pack(pady=50)
 
 janelaPrincipal.mainloop()
