@@ -1,0 +1,90 @@
+Texto processado: [1]
+Tres primeiros numeros: [1]
+Tres segundos numeros: []
+Tres terceiros numeros: []
+Dois ultimos numeros: []
+FORMATA플O: [1].[].[]-[]
+Texto processado: [1, 6]
+Tres primeiros numeros: [1, 6]
+Tres segundos numeros: []
+Tres terceiros numeros: []
+Dois ultimos numeros: []
+FORMATA플O: [1, 6].[].[]-[]
+Texto processado: [1, 6, 1]
+Tres primeiros numeros: [1, 6, 1]
+Tres segundos numeros: []
+Tres terceiros numeros: []
+Dois ultimos numeros: []
+FORMATA플O: [1, 6, 1].[].[]-[]
+Texto processado: [1, 6, 1, 5]
+Tres primeiros numeros: [1, 6, 1]
+Tres segundos numeros: [5]
+Tres terceiros numeros: []
+Dois ultimos numeros: []
+FORMATA플O: [1, 6, 1].[5].[]-[]
+Texto processado: [1, 6, 1, 5, 0]
+Tres primeiros numeros: [1, 6, 1]
+Tres segundos numeros: [5, 0]
+Tres terceiros numeros: []
+Dois ultimos numeros: []
+FORMATA플O: [1, 6, 1].[5, 0].[]-[]
+Texto processado: [1, 6, 1, 5, 0, 1]
+Tres primeiros numeros: [1, 6, 1]
+Tres segundos numeros: [5, 0, 1]
+Tres terceiros numeros: []
+Dois ultimos numeros: []
+FORMATA플O: [1, 6, 1].[5, 0, 1].[]-[]
+Texto processado: [1, 6, 1, 5, 0, 1, 7]
+Tres primeiros numeros: [1, 6, 1]
+Tres segundos numeros: [5, 0, 1]
+Tres terceiros numeros: [7]
+Dois ultimos numeros: []
+FORMATA플O: [1, 6, 1].[5, 0, 1].[7]-[]
+Texto processado: [1, 6, 1, 5, 0, 1, 7, 9]
+Tres primeiros numeros: [1, 6, 1]
+Tres segundos numeros: [5, 0, 1]
+Tres terceiros numeros: [7, 9]
+Dois ultimos numeros: []
+FORMATA플O: [1, 6, 1].[5, 0, 1].[7, 9]-[]
+Texto processado: [1, 6, 1, 5, 0, 1, 7, 9, 7]
+Tres primeiros numeros: [1, 6, 1]
+Tres segundos numeros: [5, 0, 1]
+Tres terceiros numeros: [7, 9, 7]
+Dois ultimos numeros: []
+FORMATA플O: [1, 6, 1].[5, 0, 1].[7, 9, 7]-[]
+Texto processado: [1, 6, 1, 5, 0, 1, 7, 9, 7, 6]
+Tres primeiros numeros: [1, 6, 1]
+Tres segundos numeros: [5, 0, 1]
+Tres terceiros numeros: [7, 9, 7]
+Dois ultimos numeros: [6]
+FORMATA플O: [1, 6, 1].[5, 0, 1].[7, 9, 7]-[6]
+Texto processado: [1, 6, 1, 5, 0, 1, 7, 9, 7, 6, 1]
+Tres primeiros numeros: [1, 6, 1]
+Tres segundos numeros: [5, 0, 1]
+Tres terceiros numeros: [7, 9, 7]
+Dois ultimos numeros: [6, 1]
+FORMATA플O: [1, 6, 1].[5, 0, 1].[7, 9, 7]-[6, 1]
+Texto original: 1
+Texto limpo: 1
+CPF formatado: 1
+------------------------------
+Texto original: 16
+Texto limpo: 16
+CPF formatado: 16
+------------------------------
+Texto original: 161
+Texto limpo: 161
+CPF formatado: 161
+------------------------------
+Texto original: 1615
+Texto limpo: 1615
+CPF formatado: 161.5
+------------------------------
+Texto original: 161.05
+Texto limpo: 16105
+CPF formatado: 161.05
+------------------------------
+Texto original: 161.015
+Texto limpo: 161015
+CPF formatado: 161.015
+------------------------------
