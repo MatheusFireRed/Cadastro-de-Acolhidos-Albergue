@@ -1,11 +1,19 @@
 import tkinter as tk
+import db.criarDB
+from db import conexaoDB
 from datetime import datetime
 from functions.letrasMaiusculas import letrasMaiusculas
 from functions.formatarCpf import formatarCpf
 from functions.formatarData import formatarData
+from functions.log import log
+
+log("<=======================================================>")
+log("Programa iniciado..")
 
 #Data atual 
 data_atual = datetime.now().strftime("%d/%m/%y")
+
+db.criarDB.criarDB()
 
 janelaPrincipal = tk.Tk()
 janelaPrincipal.title("Acolhimento Pernoite")
@@ -62,3 +70,10 @@ btn_cadastro = tk.Button(janelaPrincipal,text="CADASTRAR", command=clicou, width
 btn_cadastro.pack(pady=50)
 
 janelaPrincipal.mainloop()
+
+log("Programa encerrado!")
+log("")
+log("")
+log("")
+log("<=======================================================>")
+

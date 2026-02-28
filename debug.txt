@@ -1,0 +1,34 @@
+28/02/26Programa iniciado
+28/02/26 - Programa iniciado
+28/02/26 - Programa iniciado
+28/02/26 - Programa iniciado
+Banco de dados já existente!
+[28/02/2026 13:19:17] Programa iniciado..
+[28/02/2026 13:19:17] Virificando Banco de dados...
+[28/02/2026 13:19:33] Programa iniciado..
+[28/02/2026 13:19:33] Virificando Banco de dados...
+[28/02/2026 13:22:25] Programa iniciado..
+[28/02/2026 13:22:25] Virificando Banco de dados...
+[28/02/2026 13:22:25] Banco de dados existente
+[28/02/2026 13:23:03] Programa iniciado..
+[28/02/2026 13:23:03] Virificando Banco de dados...
+[28/02/2026 13:23:03] Banco de dados existente
+[28/02/2026 13:25:43] Programa iniciado..
+[28/02/2026 13:25:43] Virificando Banco de dados...
+[28/02/2026 13:25:43] Banco de dados existente
+[28/02/2026 13:26:18] Programa iniciado..
+[28/02/2026 13:26:18] Virificando Banco de dados...
+[28/02/2026 13:26:18] Banco de dados existente
+[28/02/2026 13:28:25] Programa iniciado..
+[28/02/2026 13:28:25] Virificando Banco de dados...
+[28/02/2026 13:28:25] Banco de dados não existente, criando...
+[28/02/2026 13:28:25] Banco de dados criado com sucesso!
+[28/02/2026 13:28:45] Programa encerrado
+[28/02/2026 13:28:45] <=======================================================>
+[28/02/2026 13:28:45] 
+[28/02/2026 13:28:45] 
+[28/02/2026 13:28:45] 
+[28/02/2026 13:28:45] 
+[28/02/2026 13:30:05] Programa iniciado..
+[28/02/2026 13:30:05] Virificando Banco de dados...
+[28/02/2026 13:30:05] Banco de dados existente
