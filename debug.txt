@@ -138,3 +138,146 @@ Banco de dados já existente!
 [01/03/2026 01:35:53] Tabela acolhidos verificada/criada.
 [01/03/2026 01:35:53] Tabela retornos verificada/criada.
 [01/03/2026 01:35:53] Tabela observacoes verificada/criada.
+[01/03/2026 02:02:55] Programa encerrado!
+[01/03/2026 02:02:55] 
+[01/03/2026 02:02:55] 
+[01/03/2026 02:02:55] 
+[01/03/2026 02:02:55] <=======================================================>
+[01/03/2026 02:02:59] <=======================================================>
+[01/03/2026 02:02:59] Programa iniciado..
+[01/03/2026 02:02:59] Verificando banco de dados...
+[01/03/2026 02:02:59] Tabela acolhidos verificada/criada.
+[01/03/2026 02:02:59] Tabela retornos verificada/criada.
+[01/03/2026 02:02:59] Tabela observacoes verificada/criada.
+[01/03/2026 02:03:19] Dados coletados..
+[01/03/2026 02:03:19] Dados passados para a funcao inserirAcolhido
+[01/03/2026 02:03:19] Acolhido MATHEUS DE OLIVEIRA TIMOTHEO, (2), já cadastrado no sistema. Inserindo na planilha de RETORNO.
+[01/03/2026 02:05:19] Programa encerrado!
+[01/03/2026 02:05:19] 
+[01/03/2026 02:05:19] 
+[01/03/2026 02:05:19] 
+[01/03/2026 02:05:19] <=======================================================>
+[01/03/2026 02:05:24] <=======================================================>
+[01/03/2026 02:05:24] Programa iniciado..
+[01/03/2026 02:05:24] Verificando banco de dados...
+[01/03/2026 02:05:24] Tabela acolhidos verificada/criada.
+[01/03/2026 02:05:24] Tabela retornos verificada/criada.
+[01/03/2026 02:05:24] Tabela observacoes verificada/criada.
+[01/03/2026 02:05:59] Dados coletados..
+[01/03/2026 02:05:59] Dados passados para a funcao inserirAcolhido
+[01/03/2026 02:05:59] Acolhido MATHEUS DE OLIVEIRA TIMOTHEO, (2), já cadastrado no sistema. Inserindo na planilha de RETORNO.
+[01/03/2026 02:11:00] Dados coletados..
+[01/03/2026 02:11:00] Dados passados para a funcao inserirAcolhido
+[01/03/2026 02:11:00] Acolhido MATHEUS DE OLIVEIRA TIMOTHEO, (2), já cadastrado no sistema. Inserindo na planilha de RETORNO.
+[01/03/2026 02:12:12] Programa encerrado!
+[01/03/2026 02:12:12] 
+[01/03/2026 02:12:12] 
+[01/03/2026 02:12:12] 
+[01/03/2026 02:12:12] <=======================================================>
+[01/03/2026 02:16:22] <=======================================================>
+[01/03/2026 02:16:22] Programa iniciado..
+[01/03/2026 02:16:22] Verificando banco de dados...
+[01/03/2026 02:16:22] Tabela acolhidos verificada/criada.
+[01/03/2026 02:16:22] Tabela retornos verificada/criada.
+[01/03/2026 02:16:22] Tabela observacoes verificada/criada.
+[01/03/2026 02:16:41] Dados coletados..
+[01/03/2026 02:16:41] Dados passados para a funcao inserirAcolhido
+[01/03/2026 02:16:41] Acolhido MATHEUS DE OLIVEIRA TIMOTHEO, (2), já cadastrado no sistema. Inserindo na planilha de RETORNO.
+[01/03/2026 02:22:14] Programa encerrado!
+[01/03/2026 02:22:14] 
+[01/03/2026 02:22:14] 
+[01/03/2026 02:22:14] 
+[01/03/2026 02:22:14] <=======================================================>
+[01/03/2026 02:22:20] <=======================================================>
+[01/03/2026 02:22:20] Programa iniciado..
+[01/03/2026 02:22:20] Verificando banco de dados...
+[01/03/2026 02:22:20] Tabela acolhidos verificada/criada.
+[01/03/2026 02:22:20] Tabela retornos verificada/criada.
+[01/03/2026 02:22:20] Tabela observacoes verificada/criada.
+[01/03/2026 02:22:49] Dados coletados..
+[01/03/2026 02:22:49] Dados passados para a funcao inserirAcolhido
+[01/03/2026 02:22:49] Acolhido MATHEUS DE OLIVEIRA TIMOTHEO, (2), já cadastrado no sistema. Inserindo na planilha de RETORNO.
+[01/03/2026 02:22:49] Retorno do acolhido MATHEUS DE OLIVEIRA TIMOTHEO, ID 2, adicionado a tabela RETORNOS!
+[01/03/2026 02:23:24] Dados coletados..
+[01/03/2026 02:23:24] Dados passados para a funcao inserirAcolhido
+[01/03/2026 02:23:24] Acolhido MATHEUS DE OLIVEIRA TIMOTHEO, (3), já cadastrado no sistema. Inserindo na planilha de RETORNO.
+[01/03/2026 02:23:24] Retorno do acolhido MATHEUS DE OLIVEIRA TIMOTHEO, ID 3, adicionado a tabela RETORNOS!
+[01/03/2026 02:33:20] Programa encerrado!
+[01/03/2026 02:33:20] 
+[01/03/2026 02:33:20] 
+[01/03/2026 02:33:20] 
+[01/03/2026 02:33:20] <=======================================================>
+[01/03/2026 02:33:25] <=======================================================>
+[01/03/2026 02:33:25] Programa iniciado..
+[01/03/2026 02:33:25] Verificando banco de dados...
+[01/03/2026 02:33:25] Tabela acolhidos verificada/criada.
+[01/03/2026 02:33:25] Tabela retornos verificada/criada.
+[01/03/2026 02:33:25] Tabela observacoes verificada/criada.
+[01/03/2026 02:33:37] Dados coletados..
+[01/03/2026 02:33:37] Dados passados para a funcao inserirAcolhido
+[01/03/2026 02:33:37] Erro ao inserir o acolhido : near "id": syntax error
+[01/03/2026 02:34:36] Programa encerrado!
+[01/03/2026 02:34:36] 
+[01/03/2026 02:34:36] 
+[01/03/2026 02:34:36] 
+[01/03/2026 02:34:36] <=======================================================>
+[01/03/2026 02:34:40] <=======================================================>
+[01/03/2026 02:34:40] Programa iniciado..
+[01/03/2026 02:34:40] Verificando banco de dados...
+[01/03/2026 02:34:40] Tabela acolhidos verificada/criada.
+[01/03/2026 02:34:40] Tabela retornos verificada/criada.
+[01/03/2026 02:34:40] Tabela observacoes verificada/criada.
+[01/03/2026 02:34:46] Dados coletados..
+[01/03/2026 02:34:46] Dados passados para a funcao inserirAcolhido
+[01/03/2026 02:34:46] Erro ao inserir o acolhido : near "id": syntax error
+[01/03/2026 02:36:36] Programa encerrado!
+[01/03/2026 02:36:36] 
+[01/03/2026 02:36:36] 
+[01/03/2026 02:36:36] 
+[01/03/2026 02:36:36] <=======================================================>
+[01/03/2026 02:36:42] <=======================================================>
+[01/03/2026 02:36:42] Programa iniciado..
+[01/03/2026 02:36:42] Verificando banco de dados...
+[01/03/2026 02:36:42] Tabela acolhidos verificada/criada.
+[01/03/2026 02:36:42] Tabela retornos verificada/criada.
+[01/03/2026 02:36:42] Tabela observacoes verificada/criada.
+[01/03/2026 02:36:48] Dados coletados..
+[01/03/2026 02:36:48] Dados passados para a funcao inserirAcolhido
+[01/03/2026 02:36:48] Erro ao inserir o acolhido : no such column: nome
+[01/03/2026 02:38:17] Programa encerrado!
+[01/03/2026 02:38:17] 
+[01/03/2026 02:38:17] 
+[01/03/2026 02:38:17] 
+[01/03/2026 02:38:17] <=======================================================>
+[01/03/2026 02:38:21] <=======================================================>
+[01/03/2026 02:38:21] Programa iniciado..
+[01/03/2026 02:38:21] Verificando banco de dados...
+[01/03/2026 02:38:21] Tabela acolhidos verificada/criada.
+[01/03/2026 02:38:21] Tabela retornos verificada/criada.
+[01/03/2026 02:38:21] Tabela observacoes verificada/criada.
+[01/03/2026 02:38:26] Dados coletados..
+[01/03/2026 02:38:26] Dados passados para a funcao inserirAcolhido
+[01/03/2026 02:38:26] Erro ao inserir o acolhido : no such column: nome
+[01/03/2026 02:39:02] Dados coletados..
+[01/03/2026 02:39:02] Dados passados para a funcao inserirAcolhido
+[01/03/2026 02:39:02] Erro ao inserir o acolhido MATHEUS: no such column: nome
+[01/03/2026 02:40:29] Programa encerrado!
+[01/03/2026 02:40:29] 
+[01/03/2026 02:40:29] 
+[01/03/2026 02:40:29] 
+[01/03/2026 02:40:29] <=======================================================>
+[01/03/2026 02:40:34] <=======================================================>
+[01/03/2026 02:40:34] Programa iniciado..
+[01/03/2026 02:40:34] Verificando banco de dados...
+[01/03/2026 02:40:34] Tabela acolhidos verificada/criada.
+[01/03/2026 02:40:34] Tabela retornos verificada/criada.
+[01/03/2026 02:40:34] Tabela observacoes verificada/criada.
+[01/03/2026 02:40:38] Dados coletados..
+[01/03/2026 02:40:38] Dados passados para a funcao inserirAcolhido
+[01/03/2026 02:40:38] Acolhido MATHEUS DE OLIVEIRA TIMOTHEO (ID: 2) já cadastrado. Inserindo na tabela RETORNO.
+[01/03/2026 02:40:38] Retorno do acolhido MATHEUS DE OLIVEIRA TIMOTHEO (ID: 2) adicionado!
+[01/03/2026 02:45:12] Programa encerrado!
+[01/03/2026 02:45:12] 
+[01/03/2026 02:45:12] 
+[01/03/2026 02:45:12] 
+[01/03/2026 02:45:12] <=======================================================>
