@@ -32,3 +32,65 @@ Banco de dados já existente!
 [28/02/2026 13:30:05] Programa iniciado..
 [28/02/2026 13:30:05] Virificando Banco de dados...
 [28/02/2026 13:30:05] Banco de dados existente
+[28/02/2026 13:41:06] Programa encerrado!
+[28/02/2026 13:41:06] 
+[28/02/2026 13:41:06] 
+[28/02/2026 13:41:06] 
+[28/02/2026 13:41:06] <=======================================================>
+[28/02/2026 14:12:04] <=======================================================>
+[28/02/2026 14:12:04] Programa iniciado..
+[28/02/2026 14:12:04] Virificando Banco de dados...
+[28/02/2026 14:12:04] Banco de dados existente
+[28/02/2026 14:15:45] Programa encerrado!
+[28/02/2026 14:15:45] 
+[28/02/2026 14:15:45] 
+[28/02/2026 14:15:45] 
+[28/02/2026 14:15:45] <=======================================================>
+[28/02/2026 20:00:42] <=======================================================>
+[28/02/2026 20:00:42] Programa iniciado..
+[28/02/2026 20:00:42] Virificando Banco de dados de ACOLHIDOS...
+[28/02/2026 20:00:42] Banco de dados de ACOLHIDOS não existente, criando...
+[28/02/2026 20:00:42] Banco de dados de ACOLHIDOS criado com sucesso!
+[28/02/2026 20:12:07] Programa encerrado!
+[28/02/2026 20:12:07] 
+[28/02/2026 20:12:07] 
+[28/02/2026 20:12:07] 
+[28/02/2026 20:12:07] <=======================================================>
+[01/03/2026 00:05:00] <=======================================================>
+[01/03/2026 00:05:00] Programa iniciado..
+[01/03/2026 00:05:00] Virificando Banco de dados de ACOLHIDOS...
+[01/03/2026 00:05:00] Banco de dados de ACOLHIDOS existente
+[01/03/2026 00:05:01] Acolhido , Adicionado com sucesso!
+[01/03/2026 00:05:59] <=======================================================>
+[01/03/2026 00:05:59] Programa iniciado..
+[01/03/2026 00:05:59] Virificando Banco de dados de ACOLHIDOS...
+[01/03/2026 00:05:59] Banco de dados de ACOLHIDOS existente
+[01/03/2026 00:05:59] Acolhido , já cadastrado no sistema. Inserindo na planilha de RETORNO.
+[01/03/2026 00:10:26] Programa encerrado!
+[01/03/2026 00:10:26] 
+[01/03/2026 00:10:26] 
+[01/03/2026 00:10:26] 
+[01/03/2026 00:10:26] <=======================================================>
+[01/03/2026 00:20:24] <=======================================================>
+[01/03/2026 00:20:24] Programa iniciado..
+[01/03/2026 00:20:24] Virificando Banco de dados de ACOLHIDOS...
+[01/03/2026 00:20:24] Banco de dados de ACOLHIDOS existente
+[01/03/2026 00:20:44] Acolhido MATHEUS DE OLIVEIRA TIMOTHEO, Adicionado com sucesso!
+[01/03/2026 00:21:06] Acolhido MATHEUS DE OLIVEIRA TIMOTHEO, já cadastrado no sistema. Inserindo na planilha de RETORNO.
+[01/03/2026 00:24:26] Programa encerrado!
+[01/03/2026 00:24:26] 
+[01/03/2026 00:24:26] 
+[01/03/2026 00:24:26] 
+[01/03/2026 00:24:26] <=======================================================>
+[01/03/2026 00:24:30] <=======================================================>
+[01/03/2026 00:24:30] Programa iniciado..
+[01/03/2026 00:24:30] Virificando Banco de dados de ACOLHIDOS...
+[01/03/2026 00:24:30] Banco de dados de ACOLHIDOS existente
+[01/03/2026 00:24:48] Dados coletados..
+[01/03/2026 00:24:48] Acolhido MATHEUS DE OLIVEIRA TIMOTHEO, já cadastrado no sistema. Inserindo na planilha de RETORNO.
+[01/03/2026 00:24:48] Dados passados para a funcao inserirAcolhido
+[01/03/2026 00:26:41] Programa encerrado!
+[01/03/2026 00:26:41] 
+[01/03/2026 00:26:41] 
+[01/03/2026 00:26:41] 
+[01/03/2026 00:26:41] <=======================================================>

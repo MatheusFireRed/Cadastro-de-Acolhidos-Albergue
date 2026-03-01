@@ -11,12 +11,10 @@ caminho_db      = os.path.join(base_dir, nome_db)
 
 def criarDB():
 
-    log("Virificando Banco de dados...")
+    log("Virificando Banco de dados de ACOLHIDOS...")
 
     if not os.path.exists(caminho_db):
-        print("Banco de dados não existe, criando...")
-
-        log("Banco de dados não existente, criando...")
+        log("Banco de dados de ACOLHIDOS não existente, criando...")
 
         conexao, cursor = conexaoDB.conectarDB()
   
@@ -33,11 +31,9 @@ def criarDB():
         conexao.commit()
         conexao.close()
 
-        log("Banco de dados criado com sucesso!")
+        log("Banco de dados de ACOLHIDOS criado com sucesso!")
     else:
-        print("Banco de dados já existe!")
-
-        log("Banco de dados existente")
+        log("Banco de dados de ACOLHIDOS existente")
 
 
 

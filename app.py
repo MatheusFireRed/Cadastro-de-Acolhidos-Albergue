@@ -1,6 +1,6 @@
 import tkinter as tk
 import db.criarDB
-from db import conexaoDB
+from db import conexaoDB, InserirDB
 from datetime import datetime
 from functions.letrasMaiusculas import letrasMaiusculas
 from functions.formatarCpf import formatarCpf
@@ -53,20 +53,19 @@ varNomeMae.trace_add("write", lambda *args: letrasMaiusculas(varNomeMae))
 inputNomeMae = tk.Entry(janelaPrincipal, width=50, textvariable=varNomeMae)
 inputNomeMae.pack()
 
-#Pegar os valores dos campos
-nome        = varNome.get().strip()
-cpf         = inputCpf.get().strip()
-data_nasc   = inputDataNasc.get().strip()
-nome_mae    = varNomeMae.get().strip()
+def cadastrar():
+    nome        = varNome.get().strip()
+    cpf         = inputCpf.get().strip()
+    data_nasc   = inputDataNasc.get().strip()
+    nome_mae    = varNomeMae.get().strip()
 
-
-#Apenas teste, para ser apagado posteriormente
-def clicou():
-    print("Clicou!")
+    log("Dados coletados..")
+    log("Dados passados para a funcao inserirAcolhido")
+    InserirDB.inserirAcolhido(nome, cpf, data_nasc, nome_mae)
 
 #Botão de cadastro
 #COLOCAR command= mais a função de cadastro após 
-btn_cadastro = tk.Button(janelaPrincipal,text="CADASTRAR", command=clicou, width=40, font=("Arial", 15, "bold"))
+btn_cadastro = tk.Button(janelaPrincipal,text="CADASTRAR", command=cadastrar, width=40, font=("Arial", 15, "bold"))
 btn_cadastro.pack(pady=50)
 
 janelaPrincipal.mainloop()
